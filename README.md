@@ -20,8 +20,8 @@ Vous présenterez votre idée et le prototype de votre exploration au jury de l�
 
 Voici les livrables, extraits de l’appel à projets :
 * Un Jupyter Notebook présentant votre nettoyage et votre analyse du jeu de données.
-** Ce support devra être autoporteur car il sera lu par le jury de l’appel à projets.
+  * Ce support devra être autoporteur car il sera lu par le jury de l’appel à projets.
 * Une page web présentant votre analyse à présenter lors de la soutenance orale. Vous pourrez utiliser le package Voilà ! qui permet de transformer aisément un Jupyter Notebook en page web.
 * Un support de présentation (type Power Point) pour votre oral qui comprendra :
-** une présentation de l’appel à projets
-** votre démarche de nettoyage et d’exploration des données
+  * une présentation de l’appel à projets
+  * votre démarche de nettoyage et d’exploration des données
